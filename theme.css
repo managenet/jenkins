@@ -257,7 +257,8 @@ h1>[src$='diskusage48.png'] {
     width: 0!important;
     background-size: 100% 100%!important
 }
-.icon-xlg:not([src$='credentials.png']) {
+.icon-xlg:not([src$='credentials.png']),
+img[width^="48"] {
     padding-left: 48.96px!important;
     padding-top: 48.96px!important;
     height: 0!important;
