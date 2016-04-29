@@ -9,3 +9,7 @@
   background: url(https://manage.net.nz/img/logo.svg);
   bottom: 3px;
 }
+
+#jenkins-name-icon {
+  display: none;
+}
