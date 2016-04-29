@@ -176,7 +176,7 @@
     height: 0!important;
     width: 0!important
 }
-[src$='credentials.png'][style^="width: 24px"] {
+[src$='credentials.png'][style*="width: 24px"] {
     padding-left: 24.48px!important;
     padding-top: 24.48px!important;
     height: 0!important;
