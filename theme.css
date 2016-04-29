@@ -562,3 +562,7 @@ td {
 #jenkins-name-icon {
     display: none;
 }
+.call-to-action {
+    background-color: #B3D4FF;
+    border-left: 4px solid #0172BA;
+}
